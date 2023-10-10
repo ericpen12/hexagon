@@ -1,4 +1,4 @@
-package hexagon
+package distributed_lock
 
 import (
 	"context"
